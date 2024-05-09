@@ -1,2 +1,2 @@
 # test_Repo
-class test repository
+This is a class test repository used for online UT Data Analytics bOOTCAMP.
